@@ -3,13 +3,13 @@
 ✨ Graduado em **Análise e Desenvolvimento de Sistemas** pela [IFPA](https://belem.ifpa.edu.br).
 
 🏢 **Atuação Profissional**
-- 🔋 Técnico Especializado - Eletrotécnico [Sesc-PA](https://wwwsesc-pa.com.br/)
+- 🔋 Técnico Especializado - Eletrotécnico [Sesc-PA](https://www.sesc-pa.com.br/)
 - 💻 TI na empresa [Eletrotransol-PA](https://institucional.eletrotransol.com.br)
 - 🧒 Estagiário no [TRE-PA](https://www.tre-pa.jus.br)
 
 ### 📊 Estatísticas no GitHub
 
-![falvojr's GitHub stats](https://github-readme-stats.vercel.app/api?username=falvojr&show_icons=true&theme=dracula)
+<!-- ![falvojr's GitHub stats](https://github-readme-stats.vercel.app/api?username=rafaelsouzars&show_icons=true&theme=dracula) -->
 
 ### 📌 Projetos em Destaque
 
@@ -19,4 +19,4 @@
 
 ### 🚀 Linguagens Mais Usadas
 
-![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=falvojr&layout=compact)
+![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=rafaelsouzars&layout=compact)
