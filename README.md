@@ -9,11 +9,11 @@
 
 ### 📊 Estatísticas no GitHub
 
-<!-- ![falvojr's GitHub stats](https://github-readme-stats.vercel.app/api?username=rafaelsouzars&show_icons=true&theme=dracula) -->
+![falvojr's GitHub stats](https://github-readme-stats.vercel.app/api?username=rafaelsouzars&show_icons=true&theme=dracula)
 
 ### 📌 Projetos em Destaque
 
-[![Painel Mortalidade Infantil](https://github-readme-stats.vercel.app/api/pin/?username=rafaelsouzars&repo=painelmvc)](https://github.com/rafaelsouzars/painelmvc)
+<!-- [![Painel Mortalidade Infantil](https://github-readme-stats.vercel.app/api/pin/?username=rafaelsouzars&repo=painelmvc)](https://github.com/rafaelsouzars/painelmvc) -->
 
 [![mrk-jwt](https://github-readme-stats.vercel.app/api/pin/?username=rafaelsouzars&repo=mrk-jwt)](https://github.com/rafaelsouzars/mrk-jwt)
 
