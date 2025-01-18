@@ -13,9 +13,9 @@
 
 ### 📌 Projetos em Destaque
 
-[![Painel Mortalidade Infantil](https://github-readme-stats.vercel.app/api/pin/?username=falvojr&repo=speech2learning)](https://github.com/rafaelsouzars/painelmvc)
+[![Painel Mortalidade Infantil](https://github-readme-stats.vercel.app/api/pin/?username=rafaelsouzars&repo=painelmvc)](https://github.com/rafaelsouzars/painelmvc)
 
-[![mrk-jwt](https://github-readme-stats.vercel.app/api/pin/?username=falvojr&repo=santander-dev-week-2023)](https://github.com/rafaelsouzars/mrk-jwt)
+[![mrk-jwt](https://github-readme-stats.vercel.app/api/pin/?username=rafaelsouzars&repo=mrk-jwt)](https://github.com/rafaelsouzars/mrk-jwt)
 
 ### 🚀 Linguagens Mais Usadas
 
