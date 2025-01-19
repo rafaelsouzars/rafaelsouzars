@@ -1,4 +1,4 @@
-### Olá, eu sou Rafael Souza (rafaelsouzars) 👋
+# Olá, eu sou Rafael Souza (rafaelsouzars) 👋
 
 ✨ Graduado em **Análise e Desenvolvimento de Sistemas** pela [IFPA](https://belem.ifpa.edu.br).
 
