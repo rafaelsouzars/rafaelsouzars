@@ -1,4 +1,4 @@
-### Olá, eu sou Rafael Souza (rafaelsouzars) 👋
+## Olá, eu sou Rafael Souza (rafaelsouzars) 👋
 
 ✨ **Análista de Sistemas** pela [IFPA](https://belem.ifpa.edu.br).
 ✨ **Especialista em Engenharia de Software**.
