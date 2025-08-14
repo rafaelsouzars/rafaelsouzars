@@ -16,8 +16,7 @@
 ### 📌 Projetos em Destaque
 
 <!-- [![Painel Mortalidade Infantil](https://github-readme-stats.vercel.app/api/pin/?username=rafaelsouzars&repo=painelmvc)](https://github.com/rafaelsouzars/painelmvc) -->
+[![githook-semantic-inspect-script](https://github-readme-stats.vercel.app/api/pin/?username=rafaelsouzars&repo=githook-semantic-inspect-script&bg_color=000&border_color=30A3DC&show_icons=true&icon_color=30A3DC&title_color=E94D5F&text_color=FFF)](https://github.com/rafaelsouzars/githook-semantic-inspect-script)
+[![slothhtml](https://github-readme-stats.vercel.app/api/pin/?username=rafaelsouzars&repo=slothhtml&bg_color=000&border_color=30A3DC&show_icons=true&icon_color=30A3DC&title_color=E94D5F&text_color=FFF)](https://github.com/rafaelsouzars/slothhtml)
 [![mrk-jwt](https://github-readme-stats.vercel.app/api/pin/?username=rafaelsouzars&repo=mrk-jwt&bg_color=000&border_color=30A3DC&show_icons=true&icon_color=30A3DC&title_color=E94D5F&text_color=FFF)](https://github.com/rafaelsouzars/mrk-jwt)
 [![mini-parsejs](https://github-readme-stats.vercel.app/api/pin/?username=rafaelsouzars&repo=mini-parsejs&bg_color=000&border_color=30A3DC&show_icons=true&icon_color=30A3DC&title_color=E94D5F&text_color=FFF)](https://github.com/rafaelsouzars/mini-parsejs)
-[![slothhtml](https://github-readme-stats.vercel.app/api/pin/?username=rafaelsouzars&repo=slothhtml&bg_color=000&border_color=30A3DC&show_icons=true&icon_color=30A3DC&title_color=E94D5F&text_color=FFF)](https://github.com/rafaelsouzars/slothhtml)
-
-
