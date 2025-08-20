@@ -6,7 +6,7 @@
 🏢 **Atuação Profissional**
 - 💻 Freelancer
 
-### 🖥️ Skills
+### 🖥️ Stacks
 ![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black)![PHP](https://img.shields.io/badge/PHP-777BB4?style=for-the-badge&logo=php&logoColor=white)![C#](https://img.shields.io/badge/C%23-239120?style=for-the-badge&logo=c-sharp&logoColor=white)![Python](https://img.shields.io/badge/python-3670A0?style=for-the-badge&logo=python&logoColor=ffdd54)![C](https://img.shields.io/badge/C-00599C?style=for-the-badge&logo=c&logoColor=white)![Rust](https://img.shields.io/badge/rust-%23000000.svg?style=for-the-badge&logo=rust&logoColor=white)![Flask](https://img.shields.io/badge/flask-%23000.svg?style=for-the-badge&logo=flask&logoColor=white)
 
 ### 📊 Estatísticas no GitHub
@@ -16,6 +16,8 @@
 ### 📌 Projetos em Destaque
 
 <!-- [![Painel Mortalidade Infantil](https://github-readme-stats.vercel.app/api/pin/?username=rafaelsouzars&repo=painelmvc)](https://github.com/rafaelsouzars/painelmvc) -->
+[![ganchito](https://github-readme-stats.vercel.app/api/pin/?username=rafaelsouzars&repo=ganchito&bg_color=000&border_color=30A3DC&show_icons=true&icon_color=30A3DC&title_color=E94D5F&text_color=FFF)](https://github.com/rafaelsouzars/ganchito)
+[![prato-na-web](https://github-readme-stats.vercel.app/api/pin/?username=rafaelsouzars&repo=prato-na-web&bg_color=000&border_color=30A3DC&show_icons=true&icon_color=30A3DC&title_color=E94D5F&text_color=FFF)](https://github.com/rafaelsouzars/prato-na-web)
 [![githook-semantic-inspect-script](https://github-readme-stats.vercel.app/api/pin/?username=rafaelsouzars&repo=githook-semantic-inspect-script&bg_color=000&border_color=30A3DC&show_icons=true&icon_color=30A3DC&title_color=E94D5F&text_color=FFF)](https://github.com/rafaelsouzars/githook-semantic-inspect-script)
 [![slothhtml](https://github-readme-stats.vercel.app/api/pin/?username=rafaelsouzars&repo=slothhtml&bg_color=000&border_color=30A3DC&show_icons=true&icon_color=30A3DC&title_color=E94D5F&text_color=FFF)](https://github.com/rafaelsouzars/slothhtml)
 [![mrk-jwt](https://github-readme-stats.vercel.app/api/pin/?username=rafaelsouzars&repo=mrk-jwt&bg_color=000&border_color=30A3DC&show_icons=true&icon_color=30A3DC&title_color=E94D5F&text_color=FFF)](https://github.com/rafaelsouzars/mrk-jwt)
