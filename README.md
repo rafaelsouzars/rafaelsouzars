@@ -11,13 +11,4 @@
 
 ### 📊 Estatísticas no GitHub
 
-![rafaelsouzars's GitHub stats](https://github-readme-stats.vercel.app/api?username=rafaelsouzars&show_icons=true&theme=dracula)
-
 ### 📌 Projetos em Destaque
-
-<!-- [![Painel Mortalidade Infantil](https://github-readme-stats.vercel.app/api/pin/?username=rafaelsouzars&repo=painelmvc)](https://github.com/rafaelsouzars/painelmvc) -->
-[![ganchito](https://github-readme-stats.vercel.app/api/pin/?username=rafaelsouzars&repo=ganchito&bg_color=000&border_color=30A3DC&show_icons=true&icon_color=30A3DC&title_color=E94D5F&text_color=FFF)](https://github.com/rafaelsouzars/ganchito)
-[![prato-na-web](https://github-readme-stats.vercel.app/api/pin/?username=rafaelsouzars&repo=prato-na-web&bg_color=000&border_color=30A3DC&show_icons=true&icon_color=30A3DC&title_color=E94D5F&text_color=FFF)](https://github.com/rafaelsouzars/prato-na-web)
-[![githook-semantic-inspect-script](https://github-readme-stats.vercel.app/api/pin/?username=rafaelsouzars&repo=githook-semantic-inspect-script&bg_color=000&border_color=30A3DC&show_icons=true&icon_color=30A3DC&title_color=E94D5F&text_color=FFF)](https://github.com/rafaelsouzars/githook-semantic-inspect-script)
-[![slothhtml](https://github-readme-stats.vercel.app/api/pin/?username=rafaelsouzars&repo=slothhtml&bg_color=000&border_color=30A3DC&show_icons=true&icon_color=30A3DC&title_color=E94D5F&text_color=FFF)](https://github.com/rafaelsouzars/slothhtml)
-[![mini-parsejs](https://github-readme-stats.vercel.app/api/pin/?username=rafaelsouzars&repo=mini-parsejs&bg_color=000&border_color=30A3DC&show_icons=true&icon_color=30A3DC&title_color=E94D5F&text_color=FFF)](https://github.com/rafaelsouzars/mini-parsejs)
